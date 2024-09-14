@@ -1,0 +1,10 @@
+micronaut:
+  application:
+    name: wikipedia-cli
+  http:
+    client:
+      follow-redirects: false
+wikipedia:
+  base-url: "https://en.wikipedia.org/api/rest_v1"
+  headers:
+    user-agent: "${USER_AGENT}"

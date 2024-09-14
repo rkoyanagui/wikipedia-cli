@@ -1,0 +1,7 @@
+{
+  "type": "https://mediawiki.org/wiki/HyperSwitch/errors/not_found",
+  "title": "Not found.",
+  "method": "get",
+  "detail": "Requested resource is not found.",
+  "uri": "/en.wikipedia.org/v1/page/related/Erp_derp"
+}

@@ -1,0 +1,49 @@
+{
+  "type": "standard",
+  "title": "Winston Churchill",
+  "displaytitle": "<span class=\"mw-page-title-main\">Winston Churchill</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q8016",
+  "titles": {
+    "canonical": "Winston_Churchill",
+    "normalized": "Winston Churchill",
+    "display": "<span class=\"mw-page-title-main\">Winston Churchill</span>"
+  },
+  "pageid": 33265,
+  "thumbnail": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Sir_Winston_Churchill_-_19086236948.jpg/320px-Sir_Winston_Churchill_-_19086236948.jpg",
+    "width": 320,
+    "height": 407
+  },
+  "originalimage": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg",
+    "width": 3052,
+    "height": 3884
+  },
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "1145862936",
+  "tid": "3af850e0-c7df-11ed-8130-f55d0b8522f4",
+  "timestamp": "2023-03-21T11:54:37Z",
+  "description": "British statesman and writer (1874–1965)",
+  "description_source": "local",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Winston_Churchill",
+      "revisions": "https://en.wikipedia.org/wiki/Winston_Churchill?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Winston_Churchill?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Winston_Churchill"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Winston_Churchill",
+      "revisions": "https://en.m.wikipedia.org/wiki/Special:History/Winston_Churchill",
+      "edit": "https://en.m.wikipedia.org/wiki/Winston_Churchill?action=edit",
+      "talk": "https://en.m.wikipedia.org/wiki/Talk:Winston_Churchill"
+    }
+  },
+  "extract": "Sir Winston Leonard Spencer Churchill was a British statesman, soldier, and writer who served as Prime Minister of the United Kingdom twice, from 1940 to 1945 during the Second World War, and again from 1951 to 1955. Apart from two years between 1922 and 1924, he was a Member of Parliament (MP) from 1900 to 1964 and represented a total of five constituencies. Ideologically an economic liberal and imperialist, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.",
+  "extract_html": "<p><b>Sir Winston Leonard Spencer Churchill</b> was a British statesman, soldier, and writer who served as Prime Minister of the United Kingdom twice, from 1940 to 1945 during the Second World War, and again from 1951 to 1955. Apart from two years between 1922 and 1924, he was a Member of Parliament (MP) from 1900 to 1964 and represented a total of five constituencies. Ideologically an economic liberal and imperialist, he was for most of his career a member of the Conservative Party, which he led from 1940 to 1955. He was a member of the Liberal Party from 1904 to 1924.</p>"
+}

@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: com.rkoyanagui.wikipediacli
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [app-name, gradle, http-client-test, junit, kapt, kotlin, logback, micronaut-build, picocli, picocli-junit, picocli-kotlin-application, properties, reactor, reactor-http-client, readme, serialization-jackson, shade]

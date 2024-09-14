@@ -1,0 +1,106 @@
+{
+  "pages": [
+    {
+      "pageid": 87229,
+      "ns": 0,
+      "index": 17,
+      "type": "standard",
+      "title": "H._H._Asquith",
+      "displaytitle": "<span class=\"mw-page-title-main\">H. H. Asquith</span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q166714",
+      "titles": {
+        "canonical": "H._H._Asquith",
+        "normalized": "H. H. Asquith",
+        "display": "<span class=\"mw-page-title-main\">H. H. Asquith</span>"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Herbert_Henry_Asquith.jpg/320px-Herbert_Henry_Asquith.jpg",
+        "width": 320,
+        "height": 418
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Herbert_Henry_Asquith.jpg",
+        "width": 2000,
+        "height": 2615
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1143624704",
+      "tid": "c908cd60-c703-11ed-8aec-f9a2796f6218",
+      "timestamp": "2023-03-08T22:15:02Z",
+      "description": "Prime Minister of the United Kingdom from 1908 to 1916",
+      "description_source": "local",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/H._H._Asquith",
+          "revisions": "https://en.wikipedia.org/wiki/H._H._Asquith?action=history",
+          "edit": "https://en.wikipedia.org/wiki/H._H._Asquith?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:H._H._Asquith"
+        },
+        "mobile": {
+          "page": "https://en.m.wikipedia.org/wiki/H._H._Asquith",
+          "revisions": "https://en.m.wikipedia.org/wiki/Special:History/H._H._Asquith",
+          "edit": "https://en.m.wikipedia.org/wiki/H._H._Asquith?action=edit",
+          "talk": "https://en.m.wikipedia.org/wiki/Talk:H._H._Asquith"
+        }
+      },
+      "extract": "Herbert Henry Asquith, 1st Earl of Oxford and Asquith,, generally known as H. H. Asquith, was a British statesman and Liberal Party politician who served as Prime Minister of the United Kingdom from 1908 to 1916. He was the last Liberal prime minister to command a majority government, and the most recent Liberal to have served as Leader of the Opposition. He played a major role in the design and passage of major liberal legislation and a reduction of the power of the House of Lords. In August 1914, Asquith took Great Britain and the British Empire into the First World War. During 1915, his government was vigorously attacked for a shortage of munitions and the failure of the Gallipoli Campaign. He formed a coalition government with other parties but failed to satisfy critics, was forced to resign in December 1916 and never regained power.",
+      "extract_html": "<p><b>Herbert Henry Asquith, 1st Earl of Oxford and Asquith</b>,, generally known as <b>H. H. Asquith</b>, was a British statesman and Liberal Party politician who served as Prime Minister of the United Kingdom from 1908 to 1916. He was the last Liberal prime minister to command a majority government, and the most recent Liberal to have served as Leader of the Opposition. He played a major role in the design and passage of major liberal legislation and a reduction of the power of the House of Lords. In August 1914, Asquith took Great Britain and the British Empire into the First World War. During 1915, his government was vigorously attacked for a shortage of munitions and the failure of the Gallipoli Campaign. He formed a coalition government with other parties but failed to satisfy critics, was forced to resign in December 1916 and never regained power.</p>",
+      "normalizedtitle": "H. H. Asquith"
+    },
+    {
+      "pageid": 332702,
+      "ns": 0,
+      "index": 11,
+      "type": "standard",
+      "title": "1945_United_Kingdom_general_election",
+      "displaytitle": "<span class=\"mw-page-title-main\">1945 United Kingdom general election</span>",
+      "namespace": {
+        "id": 0,
+        "text": ""
+      },
+      "wikibase_item": "Q918397",
+      "titles": {
+        "canonical": "1945_United_Kingdom_general_election",
+        "normalized": "1945 United Kingdom general election",
+        "display": "<span class=\"mw-page-title-main\">1945 United Kingdom general election</span>"
+      },
+      "thumbnail": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Person_attlee2.jpg/320px-Person_attlee2.jpg",
+        "width": 320,
+        "height": 420
+      },
+      "originalimage": {
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Person_attlee2.jpg",
+        "width": 1559,
+        "height": 2048
+      },
+      "lang": "en",
+      "dir": "ltr",
+      "revision": "1141919840",
+      "tid": "5ad205a0-b902-11ed-a879-c7636f07295d",
+      "timestamp": "2023-02-27T15:20:18Z",
+      "content_urls": {
+        "desktop": {
+          "page": "https://en.wikipedia.org/wiki/1945_United_Kingdom_general_election",
+          "revisions": "https://en.wikipedia.org/wiki/1945_United_Kingdom_general_election?action=history",
+          "edit": "https://en.wikipedia.org/wiki/1945_United_Kingdom_general_election?action=edit",
+          "talk": "https://en.wikipedia.org/wiki/Talk:1945_United_Kingdom_general_election"
+        },
+        "mobile": {
+          "page": "https://en.m.wikipedia.org/wiki/1945_United_Kingdom_general_election",
+          "revisions": "https://en.m.wikipedia.org/wiki/Special:History/1945_United_Kingdom_general_election",
+          "edit": "https://en.m.wikipedia.org/wiki/1945_United_Kingdom_general_election?action=edit",
+          "talk": "https://en.m.wikipedia.org/wiki/Talk:1945_United_Kingdom_general_election"
+        }
+      },
+      "extract": "The 1945 United Kingdom general election was a national election held on Thursday 5 July 1945, but polling in some constituencies was delayed by some days, and the counting of votes was delayed until 26 July to provide time for overseas votes to be brought to Britain. The governing Conservative Party sought to maintain its position in Parliament but faced challenges from public opinion about the future of the United Kingdom in the post-war period. Prime Minister Winston Churchill proposed to call for a general election in Parliament, which passed with a majority vote less than two months after the conclusion of the Second World War in Europe.",
+      "extract_html": "<p>The <b>1945 United Kingdom general election</b> was a national election held on Thursday 5 July 1945, but polling in some constituencies was delayed by some days, and the counting of votes was delayed until 26 July to provide time for overseas votes to be brought to Britain. The governing Conservative Party sought to maintain its position in Parliament but faced challenges from public opinion about the future of the United Kingdom in the post-war period. Prime Minister Winston Churchill proposed to call for a general election in Parliament, which passed with a majority vote less than two months after the conclusion of the Second World War in Europe.</p>",
+      "normalizedtitle": "1945 United Kingdom general election"
+    }
+  ]
+}

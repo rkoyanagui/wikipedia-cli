@@ -1,0 +1,4 @@
+wikipedia:
+  base-url: http://localhost:9111
+  headers:
+    user-agent: "coolbot/1.0.0 (https://coolbot.com; coolbot@example.org)"
